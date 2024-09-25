@@ -1,0 +1,42 @@
+New "PVsystem.GD.CE.001.261.657" phases=3 bus1=TR_GD_3807649838468837.1.2.3.0 conn=Wye kv=0.38 pf=0.92 pmpp=150.0 kva=150.0 irradiance=1.0 
+~ temperature=25 %cutin=0.1 %cutout=0.1 effcurve=Myeff P-TCurve=MyPvsT Daily=PVIrrad_diaria TDaily=MyTemp 
+ New Transformer.TR_PV_GD.CE.001.261.657 phases=3 xhl=3.5 %imag=2.3 %noloadloss=0.233 %loadloss=1.25 
+~ buses=[3807649838468837 TR_GD_3807649838468837] kvs=[13.8 0.38] kva=150 conns=[delta wye] 
+  
+
+New "PVsystem.GD.CE.001.025.610" phases=3 bus1=TR_GD_3812041438424087.1.2.3.0 conn=Wye kv=0.38 pf=0.92 pmpp=45.0 kva=45.0 irradiance=1.0 
+~ temperature=25 %cutin=0.1 %cutout=0.1 effcurve=Myeff P-TCurve=MyPvsT Daily=PVIrrad_diaria TDaily=MyTemp 
+ New Transformer.TR_PV_GD.CE.001.025.610 phases=3 xhl=3.5 %imag=3.2 %noloadloss=0.467 %loadloss=2.53 
+~ buses=[3812041438424087 TR_GD_3812041438424087] kvs=[13.8 0.38] kva=45 conns=[delta wye] 
+ 
+
+New "PVsystem.GD.CE.000.498.530" phases=3 bus1=TR_GD_3807896638470064.1.2.3.0 conn=Wye kv=0.38 pf=0.92 pmpp=64.8 kva=65.0 irradiance=1.0 
+~ temperature=25 %cutin=0.1 %cutout=0.1 effcurve=Myeff P-TCurve=MyPvsT Daily=PVIrrad_diaria TDaily=MyTemp 
+ New Transformer.TR_PV_GD.CE.000.498.530 phases=3 xhl=3.5 %imag=3.2 %noloadloss=0.467 %loadloss=2.53 
+~ buses=[3807896638470064 TR_GD_3807896638470064] kvs=[13.8 0.38] kva=45 conns=[delta wye] 
+ 
+
+New "PVsystem.GD.CE.001.373.754" phases=3 bus1=TR_GD_3831989438461958.1.2.3.0 conn=Wye kv=0.38 pf=0.92 pmpp=165.0 kva=165.0 irradiance=1.0 
+~ temperature=25 %cutin=0.1 %cutout=0.1 effcurve=Myeff P-TCurve=MyPvsT Daily=PVIrrad_diaria TDaily=MyTemp 
+ New Transformer.TR_PV_GD.CE.001.373.754 phases=3 xhl=3.5 %imag=2.3 %noloadloss=0.233 %loadloss=1.25 
+~ buses=[3831989438461958 TR_GD_3831989438461958] kvs=[13.8 0.38] kva=150 conns=[delta wye] 
+  
+
+New "PVsystem.GD.CE.001.669.286" phases=3 bus1=TR_GD_3828845138427141.1.2.3.0 conn=Wye kv=0.38 pf=0.92 pmpp=22.0 kva=22.0 irradiance=1.0 
+~ temperature=25 %cutin=0.1 %cutout=0.1 effcurve=Myeff P-TCurve=MyPvsT Daily=PVIrrad_diaria TDaily=MyTemp 
+ New Transformer.TR_PV_GD.CE.001.669.286 phases=3 xhl=3.5 %imag=3.6 %noloadloss=0.367 %loadloss=1.86 
+~ buses=[3828845138427141 TR_GD_3828845138427141] kvs=[13.8 0.38] kva=30 conns=[delta wye] 
+ 
+
+New "PVsystem.GD.CE.000.016.042" phases=3 bus1=TR_GD_3822251838422718.1.2.3.0 conn=Wye kv=0.38 pf=0.92 pmpp=25.0 kva=25.0 irradiance=1.0 
+~ temperature=25 %cutin=0.1 %cutout=0.1 effcurve=Myeff P-TCurve=MyPvsT Daily=PVIrrad_diaria TDaily=MyTemp 
+ New Transformer.TR_PV_GD.CE.000.016.042 phases=3 xhl=3.5 %imag=3.6 %noloadloss=0.367 %loadloss=1.86 
+~ buses=[3822251838422718 TR_GD_3822251838422718] kvs=[13.8 0.38] kva=30 conns=[delta wye] 
+ 
+
+New "PVsystem.GD.CE.000.212.040" phases=3 bus1=TR_GD_3812632038449567.1.2.3.0 conn=Wye kv=0.38 pf=0.92 pmpp=125.0 kva=125.0 irradiance=1.0 
+~ temperature=25 %cutin=0.1 %cutout=0.1 effcurve=Myeff P-TCurve=MyPvsT Daily=PVIrrad_diaria TDaily=MyTemp 
+ New Transformer.TR_PV_GD.CE.000.212.040 phases=3 xhl=3.5 %imag=2.5 %noloadloss=0.249 %loadloss=1.35 
+~ buses=[3812632038449567 TR_GD_3812632038449567] kvs=[13.8 0.38] kva=112.5 conns=[delta wye] 
+ 
+
